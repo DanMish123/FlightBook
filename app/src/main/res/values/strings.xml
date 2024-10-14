@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SloAir</string>
+    <string-array name="destinacija">
+        <item>Izberite destinacijo</item>
+        <item>Madrid</item>
+        <item>Milano</item>
+        <item>Helsinki</item>
+        <item>Atina</item>
+        <item>Moskva</item>
+        <item>Oslo</item>
+        <item>New York</item>
+    </string-array>
+    <string name="datumOdhoda">DD/MM/YYYY</string>
+    <string name="datumPrihoda">DD/MM/YYYY</string>
+    <string name="steviloOdraslih">Število oseb nad 12 let</string>
+    <string name="steviloOtrok">Število oseb do 12 let</string>
+    <string name="steviloDojenckov">Število oseb do 2 leti</string>
+    <string name="cena">€</string>
+    <string name="stevilkaKartica">0000000000000000</string>
+    <string name="datumIztekaKartica">DD/MM/YYYY</string>
+    <string name="cvv">000</string>
+    <string name="ime">Vnesi ime</string>
+    <string name="priimek">Vnesi priimek</string>
+</resources>
